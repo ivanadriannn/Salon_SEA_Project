@@ -1,0 +1,126 @@
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\SEASalon-Project.dll.config
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\SEASalon-Project.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\SEASalon-Project.pdb
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\csc.exe
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\csc.exe.config
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\csc.rsp
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\csi.exe
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\csi.exe.config
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\csi.rsp
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.AppContext.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Console.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Net.Http.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\vbc.exe
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\vbc.exe.config
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\vbc.rsp
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\EntityFramework.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\EntityFramework.xml
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\obj\Debug\SEASalon-Project.csproj.AssemblyReference.cache
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\obj\Debug\SEASalon-Project.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\obj\Debug\SEASalon-Project.csproj.CopyComplete
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\obj\Debug\SEASalon-Project.dll
+C:\Users\Ivan Adrian\OneDrive\Documents\SEASalon-Project\SEASalon-Project\obj\Debug\SEASalon-Project.pdb
+D:\SEASalon-Project\SEASalon-Project\bin\SEASalon-Project.dll.config
+D:\SEASalon-Project\SEASalon-Project\bin\SEASalon-Project.dll
+D:\SEASalon-Project\SEASalon-Project\bin\SEASalon-Project.pdb
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\csc.exe
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\csc.exe.config
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\csc.rsp
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\csi.exe
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\csi.exe.config
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\csi.rsp
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.AppContext.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Collections.Immutable.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Console.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.IO.Compression.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.IO.FileSystem.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Net.Http.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Net.Sockets.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.ValueTuple.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Xml.XPath.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\vbc.exe
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\vbc.exe.config
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\vbc.rsp
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\VBCSCompiler.exe
+D:\SEASalon-Project\SEASalon-Project\bin\roslyn\VBCSCompiler.exe.config
+D:\SEASalon-Project\SEASalon-Project\bin\EntityFramework.dll
+D:\SEASalon-Project\SEASalon-Project\bin\EntityFramework.SqlServer.dll
+D:\SEASalon-Project\SEASalon-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SEASalon-Project\SEASalon-Project\bin\EntityFramework.xml
+D:\SEASalon-Project\SEASalon-Project\bin\EntityFramework.SqlServer.xml
+D:\SEASalon-Project\SEASalon-Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SEASalon-Project\SEASalon-Project\obj\Debug\SEASalon-Project.csproj.AssemblyReference.cache
+D:\SEASalon-Project\SEASalon-Project\obj\Debug\SEASalon-Project.csproj.CoreCompileInputs.cache
+D:\SEASalon-Project\SEASalon-Project\obj\Debug\SEASalon-Project.csproj.CopyComplete
+D:\SEASalon-Project\SEASalon-Project\obj\Debug\SEASalon-Project.dll
+D:\SEASalon-Project\SEASalon-Project\obj\Debug\SEASalon-Project.pdb
