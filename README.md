@@ -22,6 +22,26 @@ Stay tuned as we continuously enhance our application to include interactive fea
 
 **SEA Salon - Beauty and Elegance Redefined.**
 
+# How to Run the Project
+
+First, access the repository link: [SEA Salon Project](https://github.com/ivanadriannn/Salon_SEA_Project).
+
+This project uses ASP.NET and C# with Visual Studio. Therefore, you need to download Visual Studio first. Follow the guide available here: [Visual Studio 2022 Guide](https://academic600.notion.site/Visual-Studio-2022-2fd1cebcd2474f7ba6d9d3a045d3bdfb).
+
+## Steps to Run the Project
+
+### 1. Download the Project
+
+You can download the project directly from GitHub:
+1. Go to the repository link: [SEA Salon Project](https://github.com/ivanadriannn/Salon_SEA_Project).
+2. Click on the green "Code" button.
+3. Select "Download ZIP".
+
+Alternatively, you can clone the project:
+1. Create an empty folder on your local computer.
+2. Click on the folder path at the top, type `cmd`, and press Enter.
+3. In the command prompt, type:
+
 # Features & Tech ⚙️
 ![VS](https://github.com/ivanadriannn/Salon_SEA_Project/assets/102864512/e84b1bcb-2660-43e7-8dec-d7b604647386)
 ![C#](https://github.com/ivanadriannn/Salon_SEA_Project/assets/102864512/8bd64b0c-3ad7-4bc6-97ac-caed654c2220)
